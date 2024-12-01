@@ -3,8 +3,8 @@ import localFont from "next/font/local"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "YOUTUBE 분석톨",
-  description: "유튜브 분석툴 만들기",
+  title: "템플릿",
+  description: "템플릿 만들기",
 }
 
 export const viewport: Viewport = {
