@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.format.enable": false,
+  "material-icon-theme.folders.associations": {
+    "_common": "shared",
+    "_database": "database",
+    "_components": "components",
+    "_swr": "tasks",
+    "repository": "seeders",
+    "server-controller": "controller"
+  }
+}
